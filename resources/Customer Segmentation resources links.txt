@@ -1,6 +1,3 @@
-PBL Project SE
-Group 7
-
 Topic - Customer Segmentation using K-Means Algorithm & Python
 
 Resources -
