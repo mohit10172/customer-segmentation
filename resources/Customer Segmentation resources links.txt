@@ -1,8 +1,13 @@
 Topic - Customer Segmentation using K-Means Algorithm & Python
 
 Resources -
-	Approach - 
-	    Customer Segmentation Tutorial | Python Projects | K-Means Algorithm | Python Training |  Edureka
+
+ML Glossary -  
+    https://ml-cheatsheet.readthedocs.io/en/latest/index.html
+	
+Approach - 
+    Customer Segmentation Tutorial | Python Projects | K-Means Algorithm | Python Training |  Edureka
+
 K-Means Clustering - 
     https://realpython.com/k-means-clustering-python/	
     https://jakevdp.github.io/PythonDataScienceHandbook/05.11-k-means.html
